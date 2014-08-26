@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GradesSoapClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name = "query" >Query</string>
+    <string name="imagenDescription">ImagenLogo</string>
+    <string name="studentId">CUI</string>
+    <string name="courseId">Subject ID</string>
+    <string name="result">Result</string>
+
+</resources>
