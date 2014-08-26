@@ -1,4 +1,0 @@
-SOAPCLientAndroid
-=================
-
-SOAPClient using Android.
